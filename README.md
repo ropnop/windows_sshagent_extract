@@ -51,7 +51,7 @@ Eq/hFJMNz4ZMio4KVd+BUVM2rt4zjq0tcxtOrMABdddCRBkuwhluSQ==
 -----END RSA PRIVATE KEY-----
 ```
 
-Blog post here explaining my process: TODO
+Blog post here explaining my process: https://blog.ropnop.com/extracting-ssh-private-keys-from-windows-10-ssh-agent
 
 ## Credits
 https://gist.github.com/atifaziz/10cb04301383972a634d0199e451b096
